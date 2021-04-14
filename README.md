@@ -11,7 +11,7 @@ A classic arcade game where the goal is to cross the street without getting hit 
 
 ## heart-disease-classification
 
-Language: Python
+Language: Python <br>
 Data: Kaggle data set - https://www.kaggle.com/ronitf/heart-disease-uci.
 
 The goal was to classify how severe the disease is. <br>
@@ -22,7 +22,7 @@ K-Means accuracy: 0.7049180327868853
 
 ## iris-machine-learning
 
-Language: R
+Language: R <br>
 Data: iris
 
 The hello world program of machine learning in r. <br>
