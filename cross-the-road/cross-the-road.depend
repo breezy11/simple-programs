@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1618412470 source:c:\users\brano\onedrive\dokumenti\c++\cross-the-road\main.cpp
+	<iostream>
+	<deque>
+	<vector>
+	<conio.h>
+	<time.h>
+
