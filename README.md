@@ -1,6 +1,6 @@
 # simple-programs
 
-This is a repository containing all the simple programs I've created.
+This is a repository containing all the simple programs I haven't deleted.
 
 ## cross-the-road
 
@@ -12,7 +12,7 @@ A classic arcade game where the goal is to cross the street without getting hit 
 ## heart-disease-classification
 
 Language: Python <br>
-Data: Kaggle data set - https://www.kaggle.com/ronitf/heart-disease-uci.
+Data: https://www.kaggle.com/ronitf/heart-disease-uci.
 
 The goal was to classify how severe the disease was. <br>
 I created a simple K-means and Knn models and tested how accurate they were.
