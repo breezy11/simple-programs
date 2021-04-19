@@ -6,7 +6,7 @@ This is a repository containing all the simple programs I haven't deleted.
 
 Language: C++
 
-Cross the road game wrote in C++. <br>
+Cross the road game written in C++. <br>
 A classic arcade game where the goal is to cross the street without getting hit by a car.
 
 ## heart-disease-classification
