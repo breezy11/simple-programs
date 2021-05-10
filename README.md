@@ -1,4 +1,4 @@
-# simple-programs
+# Simple Programs
 
 This is a repository containing all the simple programs I haven't deleted.
 
