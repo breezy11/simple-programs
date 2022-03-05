@@ -13,11 +13,11 @@ The timeframe is from the 1st of January 2016 to the 1st of January 2021.
 
 #### prediction
 
-![Plot of the predicted vs actual prices](https://github.com/breezy11/stock-predictor/blob/master/plots/predicted.png)
+![Plot of the predicted vs actual prices](https://github.com/breezy11/simple-programs/stock-predictor/blob/master/plots/predicted.png)
 
 #### loss
 
-![Plot of the training and validation loss](https://github.com/breezy11/stock-predictor/blob/master/plots/training-validation-loss.png)
+![Plot of the training and validation loss](https://github.com/breezy11/simple-programs/stock-predictor/blob/master/plots/training-validation-loss.png)
 
 
 
