@@ -1,0 +1,135 @@
+[{
+  "data": {
+    "rebalanceStableBorrowRates": [
+      {
+        "id": "0xbe98cec1d0c4964d84feec944676e0979472e27c78af63abd2ff364556f8591c:7",
+        "pool": {
+          "id": "0x24a42fd28c976a61df5d00d0599c34c4f90748c8"
+        },
+        "user": {
+          "id": "0x4deb3edd991cfd2fcdaa6dcfe5f1743f6e7d16a6"
+        },
+        "borrowRateFrom": "690942726109930164963275174",
+        "borrowRateTo": "139030293863492036871642314",
+        "accruedBorrowInterest": "95120304723",
+        "timestamp": 1617409072
+      },
+      {
+        "id": "0x29e5bad0aab0968526f174e0d79e57d47c60c08c70cdf6313e48d0feee43b8e8:7",
+        "pool": {
+          "id": "0x24a42fd28c976a61df5d00d0599c34c4f90748c8"
+        },
+        "user": {
+          "id": "0x4deb3edd991cfd2fcdaa6dcfe5f1743f6e7d16a6"
+        },
+        "borrowRateFrom": "94030004661357203911490615",
+        "borrowRateTo": "690942726109930164963275174",
+        "accruedBorrowInterest": "1397738532",
+        "timestamp": 1617306315
+      },
+      {
+        "id": "0xad51f350fd8e00556ab06c74794ad16a678e945be3575727a70d51f55b339b3e:7",
+        "pool": {
+          "id": "0x24a42fd28c976a61df5d00d0599c34c4f90748c8"
+        },
+        "user": {
+          "id": "0x716034c25d9fb4b38c837afe417b7f2b9af3e9ae"
+        },
+        "borrowRateFrom": "670826102955361501978602674",
+        "borrowRateTo": "94031594436539699383670708",
+        "accruedBorrowInterest": "9331921694",
+        "timestamp": 1617295340
+      },
+      {
+        "id": "0x808d1c6d42d33a4df2a20de5005a39d7d0e6c1257953e44ec09a1d611cee756e:7",
+        "pool": {
+          "id": "0x24a42fd28c976a61df5d00d0599c34c4f90748c8"
+        },
+        "user": {
+          "id": "0x4093fbe60ab50ab79a5bd32fa2adec255372f80e"
+        },
+        "borrowRateFrom": "666069568170311590264350878",
+        "borrowRateTo": "94030960997889364830458845",
+        "accruedBorrowInterest": "15049395333",
+        "timestamp": 1617295340
+      },
+      {
+        "id": "0x87da671db5b2ed6aa7f6e907694269a8e815f7eb87115f3129fcda75adbf8f26:7",
+        "pool": {
+          "id": "0x24a42fd28c976a61df5d00d0599c34c4f90748c8"
+        },
+        "user": {
+          "id": "0x4deb3edd991cfd2fcdaa6dcfe5f1743f6e7d16a6"
+        },
+        "borrowRateFrom": "694787326048658333372702264",
+        "borrowRateTo": "94030004661357203911490615",
+        "accruedBorrowInterest": "22716154749",
+        "timestamp": 1617295207
+      },
+      {
+        "id": "0xb860a13c4d7fb9373f35e6bc1132e861bd8be8c5dd1c6a5593cc373cc94d6839:7",
+        "pool": {
+          "id": "0x24a42fd28c976a61df5d00d0599c34c4f90748c8"
+        },
+        "user": {
+          "id": "0x716034c25d9fb4b38c837afe417b7f2b9af3e9ae"
+        },
+        "borrowRateFrom": "77032691406894772592315415",
+        "borrowRateTo": "670826102955361501978602674",
+        "accruedBorrowInterest": "15912136920",
+        "timestamp": 1617276020
+      },
+      {
+        "id": "0xfae1c4cb1873d4d1a715da57cbd652ef80e0ac30a45d8a06e20849af470ad6a1:7",
+        "pool": {
+          "id": "0x24a42fd28c976a61df5d00d0599c34c4f90748c8"
+        },
+        "user": {
+          "id": "0x4093fbe60ab50ab79a5bd32fa2adec255372f80e"
+        },
+        "borrowRateFrom": "73855343328868163718406744",
+        "borrowRateTo": "666069568170311590264350878",
+        "accruedBorrowInterest": "27706850217",
+        "timestamp": 1617274310
+      },
+      {
+        "id": "0x4af6a1efda73b0665fb20f6a118dab9bb8def66f503e6d52f2a901a5cba9a261:7",
+        "pool": {
+          "id": "0x24a42fd28c976a61df5d00d0599c34c4f90748c8"
+        },
+        "user": {
+          "id": "0x4deb3edd991cfd2fcdaa6dcfe5f1743f6e7d16a6"
+        },
+        "borrowRateFrom": "94871721620352512864670798",
+        "borrowRateTo": "694787326048658333372702264",
+        "accruedBorrowInterest": "27737018124",
+        "timestamp": 1617270768
+      }
+    ]
+  }
+},
+{
+  "data": {
+    "rebalanceStableBorrowRates": []
+  }
+},
+{
+  "data": {
+    "rebalanceStableBorrowRates": []
+  }
+},
+{
+  "data": {
+    "rebalanceStableBorrowRates": []
+  }
+},
+{
+  "data": {
+    "rebalanceStableBorrowRates": []
+  }
+},
+{
+  "data": {
+    "rebalanceStableBorrowRates": []
+  }
+}]
