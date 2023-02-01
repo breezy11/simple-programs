@@ -21,9 +21,9 @@ Example - first 5 rows
 
 #### prediction
 
-![Plot of the predicted vs actual prices](https://github.com/breezy11/stock-predictor/blob/master/plots/predicted.png)
+![Plot of the predicted vs actual prices](https://github.com/breezy11/simple-programs/blob/master/stock-price-forecast/plots/predicted.png)
 
 #### loss
 
-![Plot of the training and validation loss](https://github.com/breezy11/stock-predictor/blob/master/plots/training-validation-loss.png)
+![Plot of the training and validation loss](https://github.com/breezy11/simple-programs/blob/master/stock-price-forecast/plots/training-validation-loss.png)
 
